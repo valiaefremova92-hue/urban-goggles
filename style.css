@@ -31,7 +31,7 @@ button{cursor:pointer}
   color: #34483C;
   background: linear-gradient(135deg, #91A995, #F5F2EB);
   border-radius: 30px;
-  padding: 28px 22px 30px;
+  padding: 20px 22px 22px;
   margin-bottom: 18px;
   box-shadow: 0 16px 34px rgba(52, 72, 60, .12);
 }
@@ -44,7 +44,7 @@ button{cursor:pointer}
   border-radius:50%;
   background:rgba(255,255,255,.10);
 }
-.hero-logo{width:250px;height:250px;object-fit:contain;margin:0 auto 6px;position:relative;z-index:1}
+.hero-logo{width:250px;height:250px;object-fit:contain;margin:0 auto 12px;position:relative;z-index:1}
 .eyebrow{font-size:12px;font-weight:800;letter-spacing:3px;opacity:.95;position:relative;z-index:1}
 .hero h1{margin:8px 0 8px;font-size:34px;line-height:1.1;position:relative;z-index:1}
 .hero p{margin:0;font-size:15px;line-height:1.5;position:relative;z-index:1}
