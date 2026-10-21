@@ -1,15 +1,15 @@
 :root {
-  --primary: #91A995;
-  --primary-dark: #34483C;
-  --primary-light: #C4D5C5;
-  --bg: #F5F2EB;
-  --bg-soft: #EAE7DE;
+  --primary: #C77D5B;
+  --primary-dark: #A85F42;
+  --primary-light: #E5B49D;
+  --bg: #F7F3EC;
+  --bg-soft: #EFE9E0;
   --card: #FFFFFF;
-  --text: #34483C;
-  --muted: #788579;
-  --accent: #DCE7DC;
-  --border: #D3DDD2;
-  --shadow: 0 12px 30px rgba(52, 72, 60, .10);
+  --text: #29313B;
+  --muted: #7B7D7D;
+  --accent: #F0DFD3;
+  --border: #E8E5E0;
+  --shadow: 0 12px 30px rgba(41, 49, 59, .10);
 }
 
 *{box-sizing:border-box}
@@ -81,7 +81,7 @@ button{cursor:pointer}
   border-radius:20px;
   padding:15px;
   text-align:left;
-  box-shadow:0 7px 20px rgba(116,75,40,.07);
+ box-shadow: 0 7px 20px rgba(41, 49, 59, .07);
   color:var(--text);
 }
 .service-btn strong{display:block;font-size:15px;margin-bottom:6px}
