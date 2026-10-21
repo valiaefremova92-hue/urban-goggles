@@ -28,12 +28,12 @@ button{cursor:pointer}
   position: relative;
   overflow: hidden;
   text-align: center;
-  color: #28445B;
-  background: linear-gradient(135deg, #79C6E8, #FFF7E7);
+  color: #29313B;
+  background: linear-gradient(135deg, #E5B49D, #F7F3EC);
   border-radius: 30px;
   padding: 0px 22px 4px;
   margin-bottom: 18px;
-  box-shadow: 0 16px 34px rgba(40, 68, 91, .12);
+  box-shadow: 0 16px 34px rgba(41, 49, 59, .12);
 }
 .hero:after{
   content:"";
