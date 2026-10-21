@@ -31,7 +31,7 @@ button{cursor:pointer}
   color: #34483C;
   background: linear-gradient(135deg, #91A995, #F5F2EB);
   border-radius: 30px;
- padding: 10px 22px 12px;
+padding: 0px 22px 4px;
   margin-bottom: 18px;
   box-shadow: 0 16px 34px rgba(52, 72, 60, .12);
 }
